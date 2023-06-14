@@ -4,7 +4,7 @@
   },
   "eslint.validate": ["javascript"],
   "code-runner.executorMap": {
-    "typescript": "npx ts-node --files"
+    "typescript": "cls && npx ts-node --files"
   },
   "code-runner.runInTerminal": true,
   "explorer.confirmDragAndDrop": false
