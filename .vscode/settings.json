@@ -1,13 +1,11 @@
 {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
-    },
-    "eslint.validate": [
-      "javascript"
-    ],
-    "code-runner.executorMap": {
-      "typescript": "npx ts-node --files"
-    },
-    "code-runner.runInTerminal": true,
-    "explorer.confirmDragAndDrop": false
-  }
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files"
+  },
+  "code-runner.runInTerminal": true,
+  "explorer.confirmDragAndDrop": false
+}
